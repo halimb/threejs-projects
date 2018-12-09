@@ -2,11 +2,11 @@
  THEN MODIFY the drawPom function to use:
  loader.load(json, function(obj))
  instead of obj = loader.parse(json)*/
-//var jsonPom = "https://cdn.rawgit.com/halimb/threejs-projects/e441512c/pomodoro/models/pomodoro.json";
-//var jsonProto = "https://cdn.rawgit.com/halimb/threejs-projects/e441512c/pomodoro/models/protopom.json";
-//var jsonPlane = "https://cdn.rawgit.com/halimb/threejs-projects/e441512c/pomodoro/models/p_plane.json";
-//var dingUrl = "https://cdn.rawgit.com/halimb/threejs-projects/938241fc/pomodoro/sound/ding.mp3";
-//var clickUrl = "https://cdn.rawgit.com/halimb/threejs-projects/3f61b33e/pomodoro/sound/click.mp3";
+//var jsonPom = "https://cdn.jsdelivr.net/gh/halimb/threejs-projects@e441512c/pomodoro/models/pomodoro.json";
+//var jsonProto = "https://cdn.jsdelivr.net/gh/halimb/threejs-projects@e441512c/pomodoro/models/protopom.json";
+//var jsonPlane = "https://cdn.jsdelivr.net/gh/halimb/threejs-projects@e441512c/pomodoro/models/p_plane.json";
+//var dingUrl = "https://cdn.jsdelivr.net/gh/halimb/threejs-projects@938241fc/pomodoro/sound/ding.mp3";
+//var clickUrl = "https://cdn.jsdelivr.net/gh/halimb/threejs-projects@3f61b33e/pomodoro/sound/click.mp3";
 var dingUrl = "sound/ding.mp3";
 var clickUrl = "sound/click.mp3"
 
